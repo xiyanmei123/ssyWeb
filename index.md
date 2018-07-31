@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 受死吧！
 
 You can use the [editor on GitHub](https://github.com/xiyanmei123/ssyWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
